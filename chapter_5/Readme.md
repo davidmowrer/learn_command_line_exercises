@@ -1,16 +1,17 @@
 Alternative "english"
 
-1. Can you cd into the temp directory?
-  cd temp
+1. Can you cd into the tmp directory?
+  cd tmp
   
-2. Why don't we go into the temp directory?
+2. Why don't we go into the tmp directory?
+    The /tmp directory has files we don't want to change
 
-
-3. Can you go to the slash temp directory?
-  Yes. cd learn_command_line_exercises/temp
+3. Can you go to the slash tmp directory?
+  Yes. cd /tmp
+ 
   
-4. Can you go to the slash temp slash log directory?
-  Yes.  cd learn_command_line_exercises/temp/log
+4. Can you go to the slash tmp slash log directory?
+  Yes.  cd /tmp/log
   
 5. What does the .. argument to cd do? 
   The cd .. goes back to the previous directory(backward not forwards)
