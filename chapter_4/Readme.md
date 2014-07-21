@@ -1,7 +1,7 @@
 Alternative "english"
 
 1. Can you make a temp directory?
-  mkdir temp  
+  mkdir tmp  
   
 2. Can you make a log directory in your class directory?
   cd ~/w tab
