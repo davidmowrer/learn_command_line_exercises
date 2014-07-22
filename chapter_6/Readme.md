@@ -17,6 +17,9 @@ Alternative "english"
   the contents of the directory.  In RubyMine the safe delete is not available.
 
 4. What's in slash temp? The temp directory in a path. learn_command_line_exercises/temp/chapter_1
+  launch-OfTrJb		launchd-149.kySvut
+  launch-iaVvJt		launchd-234.hPez30
+  launchd-1302.eynJEE	tmpinstallmc.dmg
 
 Do More:
 
