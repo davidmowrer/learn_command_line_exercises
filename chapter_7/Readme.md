@@ -15,8 +15,7 @@ Do more:
 Alternative "english"
 
 1. Can you remove the tmp directory?
-  No, /tmp is really just a symbolic link.
-  Yes If it a temp director, like we have been creating in the exercises.
+   rmdir tmp
 
 2. Let's clear out your log directory.
    rmdir log
