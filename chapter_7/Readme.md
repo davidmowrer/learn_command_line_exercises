@@ -12,7 +12,7 @@ Do more:
    in later exercises.
   I had several of the from the previous exercise.  Get an error directory not empty.
 
-Alternative "english"
+Alternative "english":
 
 1. Can you remove the tmp directory?
    rmdir tmp
