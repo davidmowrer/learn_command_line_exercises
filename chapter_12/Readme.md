@@ -1,11 +1,32 @@
 Alternative "english" ways of asking for your working directory:
 
-Can we see what's in our production log?
-you need to copy this file to a directory you feel safe to view it in with the
-command cp log directory_name  (I only move it one directory at a time when I
-was do the exercises.)  you can view the file using less log or more log
+1. Can we see what's in our production log?
+    Yes.  cd into the log directory.
+    enter less production.log
+    git message maybe a binary file.  See any way? y enter
+    This will display the content of the production log.
+    Enter q (quit) to get out of the display.
 
-What does our database.yml look like?
-If you have a datebase.yml in a directory use less datebase.ym or more datebase.ym.
-It may ask a question that this file maybe binary, do you still want to view it.
-Enter Y and you can view it.
+2. What does our database.yml look like?
+    From the directory you are in cd config
+    less database.yml
+    This will display the content of the database.yml.  
+    It will look a kind of like the below text.
+    
+    # SQLite version 3.x
+    #   gem install sqlite3
+    #
+    #   Ensure the SQLite 3 gem is defined in your Gemfile
+    #   gem 'sqlite3'
+    #
+    default: &default
+      adapter: sqlite3
+      pool: 5
+      timeout: 5000
+    
+    development:
+      <<: *default
+      database: db/development.sqlite3
+
+3. Do More:
+    I did all the do more task.
