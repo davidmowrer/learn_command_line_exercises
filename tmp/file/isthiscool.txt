@@ -1,0 +1,4 @@
+Unstaged changes after reset:
+M	chapter_9/Readme.md
+D	temp/ex12.txt
+D	temp/file/isthiscool.txt
